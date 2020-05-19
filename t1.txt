@@ -18,7 +18,7 @@ LAL CHAND RECORD:-
 =9290
 
  9290
--1100(wheat and drauli expenses)
+-1100(wheat and Trauli expenses)
 =8190
 
 total=8190
